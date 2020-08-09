@@ -1,3 +1,3 @@
 # pythonAutomation
 
-This is a repo for some Python scripts for automating AWS
+This repo contains some python automation scripts for aws
